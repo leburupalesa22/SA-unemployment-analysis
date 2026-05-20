@@ -20,16 +20,16 @@ It explores unemployment trends by time, province, age group, and gender.
 ## Project Structure
 sa-unemployment-analysis/
 
-─ qlfs_by_age.csv
-─ qlfs_by_province.csv
-─ qlfs_by_sex.csv
-─ qlfs_key_indicators.csv
-─ plot1_unemployment_trend.png
-─ plot2_province.png
-─ plot3_age.png
-─ plot4_gender.png
-─ sa_unemployment_analysis.R
-─ README.md
+*qlfs_by_age.csv
+*qlfs_by_province.csv
+*qlfs_by_sex.csv
+*qlfs_key_indicators.csv
+*plot1_unemployment_trend.png
+*plot2_province.png
+*plot3_age.png
+*plot4_gender.png
+*sa_unemployment_analysis.R
+*README.md
 
 
 ## Visualisations
@@ -54,4 +54,4 @@ sa-unemployment-analysis/
 ## Author
 Palesa Leburu
 BSc Mathematical Sciences | Honours Statistics (in progress)
-[www.linkedin.com/in/PalesaLeburu2022] | [leburupalesa22]
+[www.linkedin.com/in/PalesaLeburu2022] | [https://github.com/leburupalesa22]
