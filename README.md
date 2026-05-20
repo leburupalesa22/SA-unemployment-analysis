@@ -18,3 +18,40 @@ It explores unemployment trends by time, province, age group, and gender.
 - **Link:** https://www.statssa.gov.za
 
 ## Project Structure
+sa-unemployment-analysis/
+
+─ qlfs_by_age.csv
+─ qlfs_by_province.csv
+─ qlfs_by_sex.csv
+─ qlfs_key_indicators.csv
+─ plot1_unemployment_trend.png
+─ plot2_province.png
+─ plot3_age.png
+─ plot4_gender.png
+─ sa_unemployment_analysis.R
+─ README.md
+
+
+## Visualisations
+
+ 1. Unemployment Rate Over Time
+![Trend](plot1_unemployment_trend.png)
+
+ 2. Unemployment by Province
+![Province](plot2_province.png)
+
+ 3. Unemployment by Age Group
+![Age](plot3_age.png)
+
+ 4. Unemployment by Gender
+![Gender](plot4_gender.png)
+
+ Tools Used
+- **Language:** R
+- **Libraries:** tidyverse, ggplot2
+- **IDE:** RStudio
+
+## Author
+Palesa Leburu
+BSc Mathematical Sciences | Honours Statistics (in progress)
+[www.linkedin.com/in/PalesaLeburu2022] | [leburupalesa22]
