@@ -25,12 +25,6 @@ View(sex)
 # Load libraries
 library(tidyverse)
 
-# ── Load datasets ────────────────────────────
-indicators <- read_csv("data/qlfs_key_indicators.csv")
-province   <- read_csv("data/qlfs_by_province.csv")
-age        <- read_csv("data/qlfs_by_age.csv")
-sex        <- read_csv("data/qlfs_by_sex.csv")
-
 # ── First look ───────────────────────────────
 glimpse(indicators)
 glimpse(province)
